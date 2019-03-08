@@ -2,7 +2,7 @@
   "name": "custom-angular2-csv",
   "author": "Gaurav Kumar",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Localized csv file names as per selected language",
   "repository": {
     "type": "git",
